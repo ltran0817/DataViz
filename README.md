@@ -1,5 +1,8 @@
-# Final Project's Task 2
-
+# Final Project
+## Team Member(s):
+    - Lam Tran
+    - Task 2: For those trips that could not be served, do they follow a spatial or temporal pattern? For example, are most of those trips originated in particular regions, and of certain times?
+    - [Source Code](https://bl.ocks.org/ltran0817/06399328bb12155b8cd80481ee00a73d)
 ## Reproduce
 1. Extract data from `request.csv`and store as object with `hour` and `request_count`
     1. `requested` : `{"hour": ... , "request_count": ...}` - Number of request per hour from the data set.
@@ -18,7 +21,5 @@
 3. The area with lowest serving rate is **34th street** which always have the highest number of unserved trip:
     - ![DVFinal3](https://user-images.githubusercontent.com/47982551/71223317-926e4280-22a1-11ea-9036-f74f45332fce.gif)
 
-Source Code Can Be Found Here:
-- https://bl.ocks.org/ltran0817/06399328bb12155b8cd80481ee00a73d
 
     
