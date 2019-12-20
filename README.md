@@ -1,8 +1,10 @@
 # Final Project
-## Team Member(s):
-    - Lam Tran
-    - Task 2: For those trips that could not be served, do they follow a spatial or temporal pattern? For example, are most of those trips originated in particular regions, and of certain times?
-    - [Source Code](https://bl.ocks.org/ltran0817/06399328bb12155b8cd80481ee00a73d)
+### Team Member(s):
+- Lam Tran
+### Task(s) picked:
+- Task 2: For those trips that could not be served, do they follow a spatial or temporal pattern? For example, are most of those trips originated in particular regions, and of certain times?
+### Link to visualization:
+- [Source Code](https://bl.ocks.org/ltran0817/06399328bb12155b8cd80481ee00a73d)
 ## Reproduce
 1. Extract data from `request.csv`and store as object with `hour` and `request_count`
     1. `requested` : `{"hour": ... , "request_count": ...}` - Number of request per hour from the data set.
